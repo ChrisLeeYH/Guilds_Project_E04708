@@ -110,6 +110,7 @@ The performance of the random forest classifier is summarized as below:
 
 ### 4. **Convolutional Neural Network**
 The confusion matrix for CNN is as follows:
+
 ![alt text](images/CNN.png)
 
 The performance of CNN is summarized below:
